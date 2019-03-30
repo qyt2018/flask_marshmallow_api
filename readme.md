@@ -1,3 +1,12 @@
+
+
+后端环境：
+Python 3.6
+Flask 1.0.2
+marshmallow 2.19.1
+PyJWT
+
+
 项目目录结构：
 ```
 ├── app                     # 项目app总目录
